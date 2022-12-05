@@ -1,7 +1,7 @@
 # 1922001
 <h1>1922001 강한성 기말과제</h1>
 <p> 오늘의 날씨 </p>
-<a href=> "https://www.weather.go.kr/w/weather/forecast/short-term.do" </a>
+<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do"> 기상청 사이트 </a>
 <div>
           <p> 이번주 날씨는 맑거나 흐리겠습니다.</p>
           </div>
